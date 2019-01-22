@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:7:5-44
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:7:5-44
+INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:7:5-44
+		INJECTED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:7:15-41
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:22:22-72
+application
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:24:5-30:19
+activity#com.chartboost.sdk.CBImpressionActivity
+ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:25:9-29:82
+	android:excludeFromRecents
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:26:19-52
+	android:hardwareAccelerated
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:27:19-53
+	android:configChanges
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:29:19-80
+	android:theme
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:28:19-89
+	android:name
+		ADDED from /Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/AndroidManifest.xml:25:19-73

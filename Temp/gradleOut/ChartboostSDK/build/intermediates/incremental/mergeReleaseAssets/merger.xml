@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/assets"/><source path="/Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/maryamnoorbakhsh/SampleChartboost/Temp/gradleOut/ChartboostSDK/src/release/assets"/></dataSet></merger>
